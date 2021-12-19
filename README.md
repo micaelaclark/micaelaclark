@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @micaelaclark
-- 👀 I’m interested in learning the basics of Frontend development.
 - 🌱 I’m currently just starting the Odin Project!
-- 💞️ I’m looking to collaborate on entry level stuff
 - 📫 How to reach me micaelaclark27@gmail.com
 
 <!---
