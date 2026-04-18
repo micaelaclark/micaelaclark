@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @micaelaclark
-- 🌱 I’m currently just starting the Odin Project!
-- 📫 How to reach me micaelaclark27@gmail.com
+- 🌱 I work at MongoDB
+- 📫 How to reach me micaelaclark27@gmail.com or micaela.clark@mongodb.com
 
 <!---
 micaelaclark/micaelaclark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
