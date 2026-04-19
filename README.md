@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @micaelaclark
 - 🌱 I work at MongoDB
-- 📫 How to reach me micaelaclark27@gmail.com or micaela.clark@mongodb.com
+- ❤️ I'm here for fun
 
 <!---
 micaelaclark/micaelaclark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
